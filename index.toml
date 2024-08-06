@@ -918,6 +918,11 @@ hash = "9f2ebd7aa39865789c5f08520120c91ba8ece536ae10d555a577394f2f4c869b"
 metafile = true
 
 [[files]]
+file = "mods/sodium.pw.toml"
+hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "c9707be9953f87c752fc750bc7f54d6d1c10d74e53b7a86fb55357c977c4fd1b"
 metafile = true
