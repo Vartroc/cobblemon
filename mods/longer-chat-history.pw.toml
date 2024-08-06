@@ -1,0 +1,13 @@
+name = "Longer Chat History [Forge/Fabric/Quilt]"
+filename = "LongerChatHistory-1.4-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e098d41ebccca1bee126270f1794df2723b9614f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5014351
+project-id = 913234

@@ -1,0 +1,13 @@
+name = "Motschen's Better Leaves"
+filename = "Better-Leaves-7.1-1.19+.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c8868fe6534cada3c667af02593504dae339a0b9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3837056
+project-id = 380969

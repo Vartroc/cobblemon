@@ -1,0 +1,13 @@
+name = "Dynamic Crosshair"
+filename = "dynamiccrosshair-7.4.4+1.20-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "99b63cd2478966710cf2e19568dcde7b14a86201"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5027230
+project-id = 623800
